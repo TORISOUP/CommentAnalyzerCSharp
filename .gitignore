@@ -1,0 +1,4 @@
+CommentAnalyzer/bin/
+CommentAnalyzer/obj/
+*.suo
+*.dll
