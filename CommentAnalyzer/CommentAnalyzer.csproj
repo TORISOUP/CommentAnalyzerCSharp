@@ -7,7 +7,7 @@
     <ProjectGuid>{A9E9A71A-E902-4FFF-B75F-015B9E4BFB41}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CommentAnalyzer</RootNamespace>
+    <RootNamespace>CommentAnalyzerCSharp</RootNamespace>
     <AssemblyName>CommentAnalyzer</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
